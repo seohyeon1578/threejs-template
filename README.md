@@ -1,1 +1,1 @@
-# threejs-template
+# Three.js-Template
